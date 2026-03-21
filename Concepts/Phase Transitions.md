@@ -35,7 +35,5 @@ At the transition $T$, phases have equal $G$. Extra heat at constant $T$ convert
 ### Symmetry and critical points
 
 Solid-liquid coexistence curve has no critical point: solid has crystal symmetries (translational, rotational) that liquid lacks. Phases with different symmetry groups must always be separated by a transition (Landau symmetry principle). Liquid and gas share the same symmetry group, so one can continuously deform into the other — hence the liquid-gas curve ends at a critical point.
-
 ### Triple point
-
 Unique $(P, T)$ where solid, liquid, gas all have equal $G$ and coexist. Below triple-point pressure: no liquid phase; solid goes directly to gas (sublimation).

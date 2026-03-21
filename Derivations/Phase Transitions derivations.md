@@ -1,6 +1,5 @@
 ### Clausius-Clapeyron
-
-On the coexistence curve, $g_	ext{liq} = g_	ext{gas}$. Moving along it:
+On the coexistence curve, $g_\text{liq} = g_\text{gas}$. Moving along it:
 $$dg_\text{liq} = -s_\text{liq}\,dT + v_\text{liq}\,dp = dg_\text{gas} = -s_\text{gas}\,dT + v_\text{gas}\,dp$$
 
 Rearranging:
@@ -28,6 +27,6 @@ $$\boxed{k_BT_c = \frac{8a}{27b}}$$
 
 Verification at $(v_c, T_c)$: substituting $v_c = 3b$, $v_c - b = 2b$, $k_BT_c = 8a/27b$:
 
-$dp/dv = -\frac{2a}{27b^3} + \frac{2a}{27b^3} = 0$ ✓
+$dp/dv = -\frac{2a}{27b^3} + \frac{2a}{27b^3} = 0$
 
-$d^2p/dv^2 = \frac{2a}{27b^4} - \frac{2a}{27b^4} = 0$ ✓
+$d^2p/dv^2 = \frac{2a}{27b^4} - \frac{2a}{27b^4} = 0$
