@@ -1,3 +1,7 @@
+---
+dg-home: "true"
+dg-publish: "true"
+---
 [[Rates of change]]
 Week 1:
 - [[Intro to statistical mechanics]]
@@ -5,6 +9,7 @@ Week 1:
 - [[Coarse-graining]]
 Week 2:
 - [[Ideal Gas Law]]
+- [[Ideal gas law derivation]]
 - [[Statistical fluctuations]]
 Week 3:
 - [[Microstates and Macrostates]]
@@ -13,6 +18,7 @@ Week 4:
 - [[Lagrangian mechanics]]
 - [[Hamiltonian mechanics]]
 - [[Liouville theorem]]
+- [[Principle of Least Action]]
 Week 5:
 - [[Information and entropy]]
 Week 6: 

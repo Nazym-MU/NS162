@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 
 | Quantity          | is the rate of change (derivative) of | with respect to  |
 | ----------------- | ------------------------------------- | ---------------- |

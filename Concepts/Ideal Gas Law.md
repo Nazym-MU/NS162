@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 An “ideal” gas is a gas that is made of very weakly interacting molecules that are very dilute.
 1. **Ideal gas molecules do not attract or repel each other**. The only interaction between ideal gas molecules would be an elastic collision upon impact with each other or an elastic collision with the walls of the container. 
 2. **Ideal gas molecules themselves take up no volume**. The gas takes up volume since the molecules expand into a large region of space, but the Ideal gas molecules are approximated as point particles that have no volume in and of themselves.

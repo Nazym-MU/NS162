@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 $N$ spins $s_1, s_2, \ldots, s_N$, each $= \pm 1$ on a regular grid; only neighbors interact. 1D = chain, 2D = grid.
 
 ### Energy

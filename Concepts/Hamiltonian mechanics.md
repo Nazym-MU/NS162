@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 [[Phase space]] - space described by all these generalized positions and momenta.
 Hamiltonian in terms of Lagrangian:
 $$\frac{\partial L}{\partial \dot q} = p$$

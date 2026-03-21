@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Terminology:
 - Statistical Mechanics - study of how the phenomena of the macroscopic world emerge from the microscopic world
 - Classical Thermodynamics (and the laws of thermodynamics)

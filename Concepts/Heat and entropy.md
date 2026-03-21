@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Heat and Entropy
 At constant volume ($dW = 0$), $dQ = dE$. Using the definition of temperature:
 $$dQ = dE = \left(\frac{\partial \log \Omega}{\partial E}\right)^{-1} d(\log \Omega) = T \, dS$$

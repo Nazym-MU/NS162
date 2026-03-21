@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Each quadratic degree of freedom in the energy contributes $\frac{1}{2}k_BT$ to the average energy.
 
 For a monatomic ideal gas: 3 translational DOF $\rightarrow$ $\langle E \rangle = \frac{3}{2}k_BT$

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Entropy has units of bits
 $$H = \sum_{i=1}^n p_i \cdot \text{number of bounces}_i$$
 $$\text{number of bounces}=\log_2 (\text{number of outcomes})$$

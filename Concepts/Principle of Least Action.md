@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 #### From Feynman's lectures
 Interesting note: The integral is a minimum if a velocity is constant (when there are no forces). If you deviate from the mean velocity too much, the mean square of that is always greater than the square of the mean. However, when we throw the ball upwards, it rises fast and then slows down. This is because we also incorporate the potential energy. You can't go up too fast because you will have too much kinetic energy. The solution is a balance between trying to get more potential energy with the least amount of extra kinetic energy.
 $$\text{Action} = S = \int_{t_1}^{t_2} (\text{KE – PE})\space dt = \int \left[ \frac{m}{2} \left( \frac{dx}{dt} \right)^2 -V(x) \right] dt$$

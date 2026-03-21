@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Removing and replacing a barrier between two gas halves should conserve entropy — resolves an apparent violation of the 2nd law via indistinguishability.
 ## Same Gas
 **Before barrier removal:** $S = 2Nk_B \ln V$

@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Course-graining – how we simplify the system by the aggregation of parts.
 Effective theory – what our new description of the system looks like when we coarse-grain.
 Basin of attraction – which other mechanistic stories turn into the same effective theory.

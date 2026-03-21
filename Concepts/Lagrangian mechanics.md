@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - describes the motion and dynamics of systems using **energies** rather than forces
 - based on the **principle of stationary action**: the path a physical system takes is the one for which action is stationary. 
 $$L = T - V$$

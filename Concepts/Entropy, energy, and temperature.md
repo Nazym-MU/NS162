@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Recall [[Monatomic ideal gas derivation]] and [[Phase space]] and [[Microstates and Macrostates]]
 If we consider gravity, then we need to consider the position and momentum together (this is because in the general relativitiy, the gravitational field (metric) is dynamical and sourced by the full stress-energy tensor, which includes momentum => o the geometry depends on both position _and_ momentum, making the separation impossible).
 If there is no gravity, then we can split the phase space into configuration space and momentum space.

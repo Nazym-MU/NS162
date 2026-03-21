@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Two results that follow directly from extensivity of entropy. See [[Euler equation derivation]].
 
 ### Euler equation

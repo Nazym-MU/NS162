@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 $$\langle J \rangle = \lim_{T\to\infty}\left( \frac{1}{T} \int^T_0 J(u(t))dt \right)$$
 The time average of a function along a trajectory starting from almost everywhere equals the ensemble average.
 $X(t)$ is ergodic if $\bar{X} = \langle X \rangle$. In other words, when the average along a single trajectory and the average over many different trajectories at a fixed time are equivalent.

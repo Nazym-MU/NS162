@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## Heat Engines
 A **heat engine** converts thermal energy into mechanical work by cycling a working body between a hot bath ($T_H$) and cold bath ($T_C$).
 

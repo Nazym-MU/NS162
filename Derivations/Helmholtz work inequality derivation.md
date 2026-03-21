@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **Setup:** Isolated system at constant $T$ (in contact with heat bath) and constant $V$. System starts and ends at same $V, T$. Only interaction with surroundings is heat exchange.
 
 Energy conservation:

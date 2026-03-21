@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Microcanonical ensemble only deals with isolated systems, but a canonical ensemble deals will closed (energy exchange can happen).
 A canonical ensemble is a collection of replicas of a system all having fixed number of particles ($N$), volume ($V$), and temperature ($T$).
 Microcanonical ensemble has constant $NVE$. Grand canonical ensemble $\mu VT$, where $\mu$ is the chemical potential of the particle.

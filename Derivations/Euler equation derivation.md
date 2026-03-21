@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 **Starting point:** $S(E, V, N)$ is extensive: $S(cE, cV, cN) = cS(E, V, N)$
 
 Differentiate both sides with respect to $c$:

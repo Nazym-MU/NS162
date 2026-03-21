@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Phase space is the abstract space constructed from the spatial coordinates and momentum components of all of the atoms in a system.
 6N dimensional for N particles in 3D. 2D space for a single particle in 1D.
 The **phase space** of a physical system in statistical mechanics is the set of all possible positions and velocities of the particles in the system, and counting microstates in these systems corresponds to finding the volume of surfaces and regions in phase space.

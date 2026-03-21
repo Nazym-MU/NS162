@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Universality of equilibrium – the starting position does not matter; the equilibrium mean and the distribution of fluctuations will be the same.
 - Coarse-graining is the simplification of a system by integrating over microscopic details while preserving information relevant for predicting macroscopic behavior.
 - It is **lossy but truth-preserving**: no new information is added, only irrelevant detail is discarded.

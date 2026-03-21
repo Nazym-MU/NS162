@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 - The microstates are a **micro**scopic description of the possible **states** of the world.
 	- always well defined
 	- in an equilibrium, each microstate is equally likely

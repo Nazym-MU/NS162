@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Derive the partition function for an ideal gas and extract thermodynamic quantities from it.
 ## Single Particle in a Box
 Energy levels for a particle in a 3D box of side $L$:

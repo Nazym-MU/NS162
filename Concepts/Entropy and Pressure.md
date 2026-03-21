@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Derive pressure and chemical potential of the ideal gas from entropy.
 Remember that for a three dimensional system of $N$ billiards of mass $m$ in a volume $V$, we have found $\Omega_q \propto V^N$ and $\Omega_p \propto m(2mE)^{\frac{3N-2}{2}}$.
 ## Entropy of the Billiards Model

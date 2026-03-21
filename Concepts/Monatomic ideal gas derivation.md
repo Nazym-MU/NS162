@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Generalizing from discrete to continuous variables in statistical mechanics requires moving from **counting microstates** to measuring **volumes in phase space**.
 
 >**The process is:**

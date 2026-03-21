@@ -1,5 +1,5 @@
 ---
-
+dg-publish: true
 ---
 - Free energy is to a constant $T$ system what $E$ is to a mechanical system.
 - Helmholtz free energy is the available energy to do work at constant $T$ and $V$.

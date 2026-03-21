@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ### Clausius-Clapeyron
 On the coexistence curve, $g_\text{liq} = g_\text{gas}$. Moving along it:
 $$dg_\text{liq} = -s_\text{liq}\,dT + v_\text{liq}\,dp = dg_\text{gas} = -s_\text{gas}\,dT + v_\text{gas}\,dp$$

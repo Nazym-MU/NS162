@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 A phase transition is an abrupt, discontinuous change in the properties of a system. The stable phase is always the one with lowest free energy $G = E + PV - TS$.
 ### Why phases exist
 At low $T$: $G$ dominated by $E$ → solid preferred. As $T$ increases, $-TS$ grows → liquid, then gas. Each phase is a tradeoff between energy and entropy.

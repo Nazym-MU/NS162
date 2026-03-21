@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Partition function encodes all thermodynamic properties of a system from its energy spectrum.
 ## Partition Function
 For a system with energy states $E_i$:

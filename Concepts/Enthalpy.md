@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 $$H \equiv E + PV$$
 
 Differential (from $dE = T\,dS - P\,dV + \mu\,dN$):

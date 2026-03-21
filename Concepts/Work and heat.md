@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 ## First Law of Thermodynamics
 $$\Delta U = Q - W$$
 - $\Delta U$: change in internal energy

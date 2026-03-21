@@ -1,3 +1,6 @@
+---
+dg-publish: true
+---
 Describes the distribution of speeds of particles in an ideal gas at temperature $T$.
 
 The energy of a single particle moving in 3D:
