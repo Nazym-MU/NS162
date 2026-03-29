@@ -47,3 +47,5 @@ Week 10:
 - [[1D Ising Model]]
 - [[Phase Transitions]]
 - [[Phase Transitions derivations]]
+Week 12:
+- [[2D Ising Model]]
