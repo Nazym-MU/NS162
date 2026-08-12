@@ -1,0 +1,53 @@
+# This repository is rooted at the home directory, so the default is to ignore
+# EVERYTHING and whitelist only the directories that are meant to be tracked.
+# Without this, `git add -A` would stage dotfiles containing credentials
+# (.claude.json, .config/, .ssh/, cloud CLI tokens) into a public remote.
+#
+# To track a new directory, add a matching pair of rules below. Both lines are
+# required: the first unignores the directory itself, the second unignores its
+# contents.
+
+# Ignore everything by default.
+*
+
+# Allow this file itself.
+!.gitignore
+
+# --- Whitelisted directories ---
+
+# Obsidian vault
+!Downloads/
+Downloads/*
+!Downloads/2026/
+!Downloads/2026/**
+
+# Project repos
+!Downloads/Projects/
+!Downloads/Projects/**
+
+# --- Exclusions inside whitelisted paths ---
+
+# macOS metadata
+.DS_Store
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment and secrets, in case one ever lands inside a tracked directory
+.env
+.env.*
+*.pem
+*.key
+
+# Obsidian per-machine UI state; the rest of .obsidian/ (settings, plugins) is fine.
+Downloads/2026/.obsidian/workspace.json
+
+# Tickets marked `visibility: private` in their frontmatter. That field keeps them
+# off the published board, but git does not read it, and this remote is public.
+# Add a line here for every private ticket.
+Downloads/2026/Tickets/NZ-10-visa-paperwork.md
