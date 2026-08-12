@@ -4,7 +4,7 @@ title: Animate the letter unfolding as you scroll
 category: project
 project: manchester-united-site
 milestone: the letter opens
-status: todo
+status: done
 estimate: 90
 visibility: public
 done_when: scrolling through the intro shows the letter physically unfolding (not just fading in), tied to scroll position, with placeholder text still fine at this stage
