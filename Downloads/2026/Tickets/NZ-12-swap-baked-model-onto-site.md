@@ -4,7 +4,7 @@ title: Swap the baked model into the live site
 category: project
 project: old-trafford
 milestone: the finished scroll-story is live
-status: todo
+status: done
 estimate: 45
 visibility: public
 done_when: deployed site loads the newly baked old-trafford.glb and the stadium looks lit, not the current weak/placeholder version

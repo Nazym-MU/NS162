@@ -4,7 +4,7 @@ title: Bake lighting and materials on the Old Trafford GLB
 category: project
 project: old-trafford
 milestone: the finished scroll-story is live
-status: doing
+status: done
 estimate: 90
 visibility: public
 done_when: old-trafford.glb re-exported with baked lighting/materials, dropped into public/models/, and it visibly reads as lit (not flat) in the running site
